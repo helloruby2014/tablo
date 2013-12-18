@@ -1,1 +1,1 @@
-Ruby Application AutoCommiting
+Ruby Application AutoCommiting in GitHub
